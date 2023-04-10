@@ -1,7 +1,9 @@
 # Hi there! 👋
 
+My name is Chriss, and I'm currently learning software engineering at the ALX-Holberton School. I'm passionate about creating fun educational projects and I'm glad you can stay for the ride.
+
 - 🔭 I’m currently learning software engineering at the ALX-Holberton School
-- 👯 I’m looking to collaborate on any education based projects that can help improve the education system in Kenya
+- 👯 I’m looking to collaborate on any education based or fun projects out there
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
@@ -10,7 +12,11 @@
 
 
 [Commandline helper Telegram bot](https://github.com/chriss1525/Commandline_Guru)
+
+
 [Madlib in C](https://github.com/chriss1525/Madlib)
+
+
 [Madlib in Python](https://github.com/chriss1525/Madlib2)
 
 
