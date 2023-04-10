@@ -1,13 +1,7 @@
 # Hi there! 👋
 
-
-My name is Chriss, and I'm currently learning software engineering at the ALX-Holberton School. I'm passionate about creating fun educational projects. 
-
-## About me
-
-
-- 🔭 I'm currently a software engineering student
-- 👯 I'm looking to collaborate on any education-based projects
+- 🔭 I’m currently learning software engineering at the ALX-Holberton School
+- 👯 I’m looking to collaborate on any education based projects that can help improve the education system in Kenya
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
