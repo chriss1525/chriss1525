@@ -14,9 +14,6 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 [Commandline helper Telegram bot](https://github.com/chriss1525/Commandline_Guru)
 
 
-[Madlib in C](https://github.com/chriss1525/Madlib)
-
-
 [Madlib in Python](https://github.com/chriss1525/Madlib2)
 
 
