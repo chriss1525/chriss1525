@@ -4,17 +4,23 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 
 - 🔭 I’m currently learning software engineering at the ALX-Holberton School
 - 👯 I’m looking to collaborate on any education based or fun projects out there
+- ☑️ Open to collaboration and job opportunities
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
 
 ### Favorite Projects
 
+[Flashcards App](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
 
-[Commandline helper Telegram bot](https://github.com/chriss1525/Commandline_Guru)
+
+[Commandline helper Telegram bot](https://github.com/chriss1525/Commandline_Guru) - A telegram bot equiped with 10 Linux commands to help a beginner learn how to navigate the terminal
 
 
-[Madlib in Python](https://github.com/chriss1525/Madlib2)
+[Madlib in Python](https://github.com/chriss1525/Madlib2) - Fun CLI madlibs game. Have fun creating random combinations of subject, verb, object phrases, clauses or just words
+
+
+[Snake Game](https://github.com/chriss1525/Snake_Game) - a recreation of the iconic Snake game we all loved from childhood
 
 
 Feel free to check out my projects and repositories below! If you have any suggestions or would like to collaborate on a project, feel free to reach out to me. Thanks for stopping by! 😊#
