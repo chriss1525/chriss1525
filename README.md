@@ -11,10 +11,10 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 
 ### Favorite Projects
 
-[Flashcards App](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
+[FlipDeck](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
 
 
-[Commandline helper Telegram bot](https://github.com/chriss1525/Commandline_Guru) - A telegram bot equiped with 10 Linux commands to help a beginner learn how to navigate the terminal
+[Commandline_Guru](https://github.com/chriss1525/Commandline_Guru) - A telegram bot equiped with 10 Linux commands to help a beginner learn how to navigate the terminal
 
 
 [Madlib in Python](https://github.com/chriss1525/Madlib2) - Fun CLI madlibs game. Have fun creating random combinations of subject, verb, object phrases, clauses or just words
