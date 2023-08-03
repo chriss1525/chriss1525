@@ -1,0 +1,3 @@
+@routes.route('/')
+def home():
+    return render_template('homepage.html')
