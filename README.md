@@ -8,7 +8,8 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
-[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chriss1525&show_icons=true&locale=en&layout=compact&theme=tokyonight)]
+[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chriss1525&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### Favorite Projects
 
 [FlipDeck](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
