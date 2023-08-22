@@ -8,7 +8,7 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriss1525&layout=pie)](https://github.com/chriss1525/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriss1525&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chriss1525&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ### Favorite Projects
 
