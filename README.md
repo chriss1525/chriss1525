@@ -8,7 +8,7 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriss1525)](https://github.com/chriss1525/github-readme-stats)
+[Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=chriss1525&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ### Favorite Projects
 
 [FlipDeck](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
@@ -26,5 +26,5 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 Feel free to check out my projects and repositories below! If you have any suggestions or would like to collaborate on a project, feel free to reach out to me. Thanks for stopping by! 😊#
 
 
-[![Chriss's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriss1525&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)
+[Chriss's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriss1525&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)
 
