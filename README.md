@@ -8,9 +8,9 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a trained counselor and teacher of Literature!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriss1525&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=chriss1525&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ### Favorite Projects
+
+[chrome extension server](https://github.com/chriss1525/chrome-extension-server) - a REST API that takes a video from a screen recording chrome extension, stores it in disk, generates transcripts for the video and stores the filepath, name and transcripts in a db
 
 [FlipDeck](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
 
@@ -25,7 +25,4 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 
 
 Feel free to check out my projects and repositories below! If you have any suggestions or would like to collaborate on a project, feel free to reach out to me. Thanks for stopping by! 😊#
-
-
-[![Chriss's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriss1525&show_icons=true&count_private=true&include_all_commits&theme=tokyonight)
 
