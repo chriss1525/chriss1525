@@ -10,10 +10,9 @@ My name is Chriss, and I'm currently learning software engineering at the ALX-Ho
 
 ### Favorite Projects
 
-[chrome extension server](https://github.com/chriss1525/chrome-extension-server) - a REST API that takes a video from a screen recording chrome extension, stores it in disk, generates transcripts for the video and stores the filepath, name and transcripts in a db
+[Chrome extension server](https://github.com/chriss1525/chrome-extension-server) - a REST API that takes a video from a screen recording chrome extension, stores it in disk, 
 
-[FlipDeck](https://github.com/chriss1525/FlipDeck) - A study app that allows you to create your own flashcards, store them and use them at crucial study moments
-
+generates transcripts for the video and stores the filepath, name and transcripts in a db
 
 [Commandline_Guru](https://github.com/chriss1525/Commandline_Guru) - A telegram bot equiped with 10 Linux commands to help a beginner learn how to navigate the terminal
 
