@@ -22,6 +22,8 @@ generates transcripts for the video and stores the filepath, name and transcript
 
 [Snake Game](https://github.com/chriss1525/Snake_Game) - a recreation of the iconic Snake game we all loved from childhood
 
+[Jamz API](https://github.com/chriss1525/JamZ) - A music separation API
+
 
 Feel free to check out my projects and repositories below! If you have any suggestions or would like to collaborate on a project, feel free to reach out to me. Thanks for stopping by! 😊#
 
