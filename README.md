@@ -22,23 +22,28 @@ I'm a versatile Backend Developer with expertise in Rust, blockchain development
 ## 🚀 Projects
 
 ### [Chrome Extension Server](https://github.com/chriss1525/chrome-extension-server)
+
 A REST API for a screen recording Chrome extension. It stores videos, generates transcripts, and manages data in a database.
 **Tech stack:** Python, Django, REST framework
 
 ### [Commandline Guru](https://github.com/chriss1525/Commandline_Guru)
+
 A Telegram bot to help beginners learn Linux commands.
 **Tech stack:** Python, Telegram Bot API
 
 ### [Jamz API](https://github.com/chriss1525/JamZ)
+
 A music separation API.
 **Tech stack:** Python, Machine Learning
 
 ## 💼 Experience
 
-**Backend Rust Developer** at Investa Farm (Jul 2024 - Present)
+### **Backend Rust Developer** at Investa Farm (Jul 2024 - Present)
+
 - Contribute to the ongoing development and maintenance of canisters using Rust
 
-**Rust Developer** at Carbon Crowd (Mar 2024 - Present)
+### **Rust Developer** at Carbon Crowd (Mar 2024 - Present)
+
 - Developed and implemented canisters in Rust for icfootprint.io on the Internet Computer (ICP) platform
 - Integrated backend canisters with the frontend, ensuring seamless data flow and functionality
 - Created new frontend elements to utilize and showcase canister capabilities fully
