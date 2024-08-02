@@ -76,6 +76,5 @@ I'm currently expanding my knowledge in blockchain technologies and exploring ad
 ## 📫 Get in Touch
 
 Email: okothchris15@gmail.com
-Phone: 0792897728
 
 If you have any suggestions or would like to collaborate on a project, feel free to reach out. Thanks for stopping by! 😊
