@@ -1,55 +1,76 @@
-# Hi there! 👋
+# Hi there! I'm Christine Okoth 👋
 
-![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-blue)
-
-![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chriss1525&show_icons=true&theme=radical)
-
-
-My name is Chriss. I'm a software engineer with proficiency in backend development. I'm passionate about creating fun educational projects and I'm glad you can stay for the ride.
+![Backend Developer](https://img.shields.io/badge/-Backend%20Developer-blue)
 
 ## 💼 About Me
 
-I'm a software engineer with a focus on backend development. I'm proficient in Python,Django and Javascript, Node.js. I'm also always eager to learn new technologies.
+I'm a versatile Backend Developer with expertise in Rust, blockchain development (ICP), and traditional web technologies. I'm experienced in building scalable applications and working with cutting-edge technologies. I'm passionate about creating innovative solutions and always eager to learn new technologies.
 
-## 🤝 Collaboration
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriss1525&show_icons=true&theme=radical)
 
-- 🔭 I’m a software engineer with proficiency in backend development
-- 👯 I’m looking to collaborate on any fun projects out there
-- ☑️ Open to collaboration and job opportunities
+## 🛠 Skills
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![ICP](https://img.shields.io/badge/-ICP-FFA500?style=flat-square&logo=dfinity&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+
+## 🚀 Projects
+
+### [Chrome Extension Server](https://github.com/chriss1525/chrome-extension-server)
+A REST API for a screen recording Chrome extension. It stores videos, generates transcripts, and manages data in a database.
+**Tech stack:** Python, Django, REST framework
+
+### [Commandline Guru](https://github.com/chriss1525/Commandline_Guru)
+A Telegram bot to help beginners learn Linux commands.
+**Tech stack:** Python, Telegram Bot API
+
+### [Jamz API](https://github.com/chriss1525/JamZ)
+A music separation API.
+**Tech stack:** Python, Machine Learning
+
+## 💼 Experience
+
+**Backend Rust Developer** at Investa Farm (Jul 2024 - Present)
+- Contribute to the ongoing development and maintenance of canisters using Rust
+
+**Rust Developer** at Carbon Crowd (Mar 2024 - Present)
+- Developed and implemented canisters in Rust for icfootprint.io on the Internet Computer (ICP) platform
+- Integrated backend canisters with the frontend, ensuring seamless data flow and functionality
+- Created new frontend elements to utilize and showcase canister capabilities fully
+- Maintained a cohesive flow of data between the frontend canister, backend canisters, and an InfluxDB database
+
+## 🎓 Education
+
+**Moi University**
+Bachelor of Education - BEd, Education (Guidance and Counselling)
+Sep 2016 - Dec 2023
+
+## 🏅 Certifications
+
+- Lyft - Back-End Engineering Job Simulation (Forage)
+- Software Engineer - alx_africa
+
+## 🌱 Current Focus
+
+I'm currently expanding my knowledge in blockchain technologies and exploring advanced applications of Rust in backend development.
+
+## 🤝 Let's Connect!
+
+- 👯 Open to collaborating on innovative blockchain and backend projects
+- 🔭 Seeking new job opportunities in Rust and blockchain development
 - 😄 Pronouns: she/her
 
-## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/christine-okoth)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chriss1525)
 
-If you have any suggestions or would like to collaborate on a project, feel free to reach out to me. Thanks for stopping by! 😊
+## 📫 Get in Touch
 
-## 🎉 Projects
+Email: okothchris15@gmail.com
+Phone: 0792897728
 
-### Chrome Extension Server
-
-[Chrome Extension Server](https://github.com/chriss1525/chrome-extension-server)
-
-A REST API that takes a video from a screen recording chrome extension, stores it in disk, generates transcripts for the video and stores the filepath, name and transcripts in a db.
-
-### Commandline Guru
-
-[Commandline Guru](https://github.com/chriss1525/Commandline_Guru)
-
-A telegram bot equipped with 10 Linux commands to help a beginner learn how to navigate the terminal.
-
-### Madlib in Python
-
-[Madlib in Python](https://github.com/chriss1525/Madlib2)
-
-Fun CLI madlibs game. Have fun creating random combinations of subject, verb, object phrases, clauses or just words.
-
-### Snake Game
-
-[Snake Game](https://github.com/chriss1525/Snake_Game)
-
-A recreation of the iconic Snake game we all loved from childhood.
-
-### Jamz API
-
-[Jamz API](https://github.com/chriss1525/JamZ)
-
-A music separation API.
+If you have any suggestions or would like to collaborate on a project, feel free to reach out. Thanks for stopping by! 😊
