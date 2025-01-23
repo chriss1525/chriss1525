@@ -26,7 +26,7 @@ I'm a versatile Backend Developer with expertise in Rust, blockchain development
 ### [Chrome Extension Server](https://github.com/chriss1525/chrome-extension-server)
 
 A REST API for a screen recording Chrome extension. It stores videos, generates transcripts, and manages data in a database.
-**Tech stack:** Python, Django, REST framework
+**Tech stack:** Javascript, NodeJs, express.
 
 ### [Commandline Guru](https://github.com/chriss1525/Commandline_Guru)
 
@@ -36,7 +36,7 @@ A Telegram bot to help beginners learn Linux commands.
 ### [Jamz API](https://github.com/chriss1525/JamZ)
 
 A music separation API.
-**Tech stack:** Python, Machine Learning
+**Tech stack:** Javascript, NodeJs, Machine Learning Model
 
 ## 💼 Experience
 
