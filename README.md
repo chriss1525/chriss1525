@@ -11,6 +11,8 @@ I'm a versatile Backend Developer with expertise in Rust, blockchain development
 ## 🛠 Skills
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![Motoko](https://img.shields.io/badge/-Motoko-222222?style=flat-square&logo=dfinity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![ICP](https://img.shields.io/badge/-ICP-FFA500?style=flat-square&logo=dfinity&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
